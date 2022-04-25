@@ -11,7 +11,7 @@ Para desenvolvermos o Flutter, precisaremos dos seguintes itens instalados em no
 
 
 1.Instalando o Android Studio :
-![](.png?raw=true "Diagrama UML")
+![](im1.png?raw=true "Diagrama UML")
 
 
  
@@ -21,7 +21,7 @@ Para desenvolvermos o Flutter, precisaremos dos seguintes itens instalados em no
 
 2. Instalação do Flutter SDK e dart-sdk
 
-![](.png?raw=true "Diagrama UML")
+![](im2.png?raw=true "Diagrama UML")
 
 
 
@@ -33,24 +33,23 @@ Para desenvolvermos o Flutter, precisaremos dos seguintes itens instalados em no
 
 3.Configurar Plugins
 Depois de se ter instalado o Android Studio e Flutter SDK, já no AndroidStudio, ir a configurações e clicar em Plugins:
-![](.png?raw=true "Diagrama UML")
-
-
-
-
-
-
-
-
-
-
 De seguida instalar os plugins: Flutter e Dart
+![](im3.png?raw=true "Diagrama UML")
+
+
+5.Criar emulador:
+To create a new AVD:
+Open the Device Manager.
+Click Create Device. The Select Hardware window appears. ...
+Select a hardware profile, and then click Next.
+Select the system image for a particular API level, and then click Next.
+Change AVD properties as needed, and then click Finish.
 
 
 
 
 
-5. Run
+6. Run
 
 Já poderá correr o programa a partir do código apresentado no GitHub
 
