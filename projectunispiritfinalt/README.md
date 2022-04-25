@@ -1,4 +1,4 @@
-# projectunispiritfinalt
+# TFC UniSpirit
 Instalação:
 
 Geral:
@@ -52,4 +52,11 @@ Change AVD properties as needed, and then click Finish.
 6. Run
 
 Já poderá correr o programa a partir do código apresentado no GitHub
+
+Se tiver alguma dúvida poderá correr este tutorial:  https://www.youtube.com/watch?v=hfz_AraTk_k
+
+
+Video de demonstração da App Mobile UniSpirit :
+https://youtu.be/k10FJczHfpY
+
 
